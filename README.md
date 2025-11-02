@@ -119,7 +119,7 @@ Candidato com ótimo potencial para áreas de IA e automação.
 
 **Guilherme Henrique Souza Faria**
 💼 Desenvolvedor Python | Focado em IA, Automação e LLMs
-📧 [adicione seu e-mail profissional ou LinkedIn aqui]
+📧 [guilhermehenriquea344@gmail.com // www.linkedin.com/in/guilherme-h-115740345]
 
 ---
 
