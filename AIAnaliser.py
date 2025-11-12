@@ -239,3 +239,6 @@ while True:
     # Imprime a última mensagem de conteúdo gerada pelo LLM (a resposta final)
     final_answer = result['messages'][-1].content
     print(f"🤖 AI: {final_answer}")
+
+OBS:(Gosto bastante de deixar o codigo comentado, para relembrar tudo que esta acontecendo no codigo depois)
+
